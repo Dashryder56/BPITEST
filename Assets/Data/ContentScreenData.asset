@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d51ddb042c0640a7bf93010971bdfde, type: 3}
+  m_Name: ContentScreenData
+  m_EditorClassIdentifier: 
+  buttons:
+  - buttonName: Animals
+    gallery:
+    - image: animals1.jpg
+      description: Animal Image 1
+    - image: animals2.jpg
+      description: Animal Image 2
+    - image: animals3.jpg
+      description: 'Animal Image 3 '
+  - buttonName: Places
+    gallery:
+    - image: places1.jpg
+      description: Places Image 1
+    - image: places2.jpg
+      description: Places Image 2
+    - image: places3.jpg
+      description: 'Places Image 3 '
+  - buttonName: People
+    gallery:
+    - image: people1.jpg
+      description: People Image 1
+    - image: people2.jpg
+      description: People Image 2
+    - image: people3.jpg
+      description: People Image 3
